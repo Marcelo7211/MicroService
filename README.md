@@ -1,6 +1,6 @@
 # Read-me
 
-O Sistema de compras baseado na arquiterura de micro service, o sistema tem conexão com 2 bancos de dados, um relacional, e um não relacional, e, tambem conta com um sistema externo de mensagerias que garante que nada seja perdido cado haja alguma interrupção e algum micro serviço
+O Sistema de compras baseado na arquiterura de micro service, o sistema tem conexão com 2 bancos de dados, um relacional, e um não relacional, e, tambem conta com um sistema externo de mensagerias que garante que nada seja perdido caso haja alguma interrupção e algum micro serviço
 
 **O sistema ´composto por:**
 
